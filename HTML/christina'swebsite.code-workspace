@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "new website"
+		},
+		{
+			"path": "Websites/new website/themeforest-22281415-buka-one-page-portfolio (1)/Documentation"
+		},
+		{
+			"path": "Websites/new website/themeforest-22281415-buka-one-page-portfolio (1)/HTML"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
