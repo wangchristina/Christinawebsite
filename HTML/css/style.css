@@ -50,6 +50,13 @@
   width: 100%;
 }
 
+.gradienttext{
+  
+  background: -webkit-linear-gradient(#4d83a1, #c5c96b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 body {
   color: #000;
   line-height: 1.3;
