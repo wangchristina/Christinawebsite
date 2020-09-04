@@ -925,6 +925,7 @@ footer .copy p {
   /* Changed background image position to 6% (use to be 50%)*/
   .header {
     background-attachment: scroll !important;
+    background-image: url("../video/background1.mp4");
     background-position: 6% 0% !important;
   }
   /** HERE*/
