@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
+
+body {
+    font-family: 'Bungee Outline', cursive;
+    margin: 10%;
+    background-color: #F4F4F4;
+
+}
+
+p{
+    background-color: #ffffff; opacity: 0.5;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size:30px;
+    height: 70px;
+    margin:0;
+    width:200px;
+
+}
