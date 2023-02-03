@@ -98,6 +98,7 @@ p {
   margin: 0;
 }
 
+
 img {
   width: 100%;
   height: auto;
@@ -114,7 +115,8 @@ span, a, a:hover {
 }
 
 .section-head {
-  margin-bottom: 80px;
+  margin-top: -50px;
+  margin-bottom: 50px;
 }
 .section-head h3 {
   font-size: 40px;
@@ -384,6 +386,7 @@ span, a, a:hover {
   position: relative;
 }
 .header .caption h6 {
+  
   font-size: 20px;
   letter-spacing: 2px;
 }
@@ -459,6 +462,7 @@ opacity: 1;
 -----------------------------------------------------------------*/
 .hero {
   position: relative;
+  font-family: 'Be Vietnam Pro', sans-serif;
 }
 .hero .hero-img {
   position: relative;
@@ -755,9 +759,19 @@ opacity: 1;
   -webkit-box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.05);
           box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.05);
   background: #fff;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  margin-bottom: 30px;
 }
 .blog .item .post-img .img {
   overflow: hidden;
+}
+
+.blog h3 {
+  font-size: 40px;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-weight: 800;
+  letter-spacing: 2px;
+  margin-bottom: 25px;
 }
 .blog .item .post-img:hover img {
   -webkit-transform: scale(1.1, 1.1);
@@ -970,5 +984,8 @@ footer .copy p {
     font-size: 20px;
   }
 }
+
+
+
 
 /*# sourceMappingURL=style.css.map */
